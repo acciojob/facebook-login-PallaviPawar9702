@@ -45,6 +45,7 @@ button{
 }
 a{
 	color: #1877f2;
+	text-decoration: none;
 }
 .signup{
 	background-color: #42b72a;
