@@ -10,6 +10,11 @@ body{
 	margin-top: 70px;
 	display: inline-block;
 }
+.left img {
+    width: 300px;
+}
+
+
 .right{
 	display: flex;
 	flex-direction: column;
@@ -36,6 +41,7 @@ button{
 	padding: 10px 20px;
 	border: none;
 	color: white;
+	width: 100%;
 }
 a{
 	color: #1877f2;
