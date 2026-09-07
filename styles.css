@@ -10,7 +10,12 @@ body{
 	margin-top: 70px;
 	display: inline-block;
 }
-.right form{
+.right{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+form{
 	display: flex;
 	width: 300px;
 	background-color: white;
